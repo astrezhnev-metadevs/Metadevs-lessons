@@ -1,4 +1,4 @@
-package com.metadevs;
+package com.metadevs.livecoding;
 
 import java.util.Scanner;
 
